@@ -1,4 +1,4 @@
-## Olá, sou Vitor Pablo! Desenvolvedor Fullstack Junior 👋
+## Olá, sou Vitor Pablo! Desenvolvedor Fullstack 👋
 
 Atualmente me empenho mais em PHP, Vue.js.
 
