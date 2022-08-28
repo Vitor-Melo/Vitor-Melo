@@ -1,6 +1,6 @@
-## Olá, sou Vitor Pablo! Desenvolvedor Fullstack 👋
+## Olá, sou Vitor Pablo! Desenvolvedor Back-end 👋
 
-* ⚙ Techs: Javascript | React.js | Vue.js | PHP | Laravel
-* [🤝 Linkedin](https://www.linkedin.com/in/vitorp-melo)
-* [💻 Github](https://github.com/Vitor-Melo)
-* [🙋🏽‍♂️ Profile Page](https://vitor-melo.github.io/profile/)
+* ⚙ Techs: Javascript | Node.js | Typescript | Express.js | Nest.js | PHP | Laravel
+* [Linkedin](https://www.linkedin.com/in/vitorp-melo)
+* [Github](https://github.com/Vitor-Melo)
+* [Profile Page](https://vitor-melo.github.io/profile/)
